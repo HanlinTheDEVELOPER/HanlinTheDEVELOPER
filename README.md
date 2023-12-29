@@ -7,7 +7,4 @@ let greeting = "Hello there"
 
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
