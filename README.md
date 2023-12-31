@@ -22,6 +22,4 @@ Git Config   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-```js
-https://profile-counter.glitch.me/HanlinTheDEVELOPER/count.svg
-```
+
