@@ -10,7 +10,7 @@ let greeting;
 
 <!--START_SECTION:waka-->
 
-```rust
+```go
 Total Time: 2 hrs 54 mins
 
 JavaScript   1 hr 51 mins    ████████████████░░░░░░░░░   64.06 %
