@@ -1,4 +1,5 @@
-```js
+<p align="center">
+ ```js
 let greeting;
  if(greeting == "Hello there") {
     console.log("General Kenobi")
@@ -6,6 +7,7 @@ let greeting;
     console.log("Welcome to my GitHub!")
 }
 ```
+</p>
 
 
 <!--START_SECTION:waka-->
