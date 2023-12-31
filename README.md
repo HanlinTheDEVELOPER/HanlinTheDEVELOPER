@@ -22,3 +22,6 @@ Git Config   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+```
+![Visitor Count](https : //profile-counter.glitch.me/HanlinTheDEVELOPER/count.svg)
+```
