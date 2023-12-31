@@ -22,4 +22,5 @@ Git Config   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![Snake animation](https://github.com/HanlinTheDEVELOPER/HanlinTheDEVELOPER/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/HanlinTheDEVELOPER/HanlinTheDEVELOPER/blob/output/github-contribution-grid-snake.svg)
