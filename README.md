@@ -24,5 +24,5 @@ Git Config   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ```js
 ![Visitor Count]
-(https://profile-counter.glitch.me/HanlinTheDEVELOPER/count.svg)
+https://profile-counter.glitch.me/HanlinTheDEVELOPER/count.svg
 ```
