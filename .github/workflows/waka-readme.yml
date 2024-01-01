@@ -17,4 +17,5 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
+          CODE_LANG: js
           
