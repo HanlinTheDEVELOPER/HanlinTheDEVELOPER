@@ -13,13 +13,13 @@ let greeting;
 <!--START_SECTION:waka-->
 
 ```js
-Total Time: 46 hrs 39 mins
+Total Time: 48 hrs 49 mins
 
-JavaScript       31 hrs 32 mins  █████████████████░░░░░░░░   67.50 %
-C                5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-JSON             2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-ObjectiveC       2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-TypeScript       1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+JavaScript       33 hrs 42 mins  █████████████████▒░░░░░░░   68.93 %
+C                5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JSON             2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+ObjectiveC       2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+TypeScript       1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
