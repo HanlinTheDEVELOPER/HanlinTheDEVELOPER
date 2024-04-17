@@ -14,7 +14,7 @@
 </div>
 
 ###
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanlinTheDEVELOPER)](https://github.com/HanlinTheDEVELOPER/github-readme-stats)
+
 
 ###
 
