@@ -19,7 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+ <div>
+   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -38,7 +39,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="expressjs logo"  />
-  <img width="12" />
+   <img width="12" />
+ </div>
+  <div>
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="PHP logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel logo"  />
@@ -56,6 +59,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  </div>
 </div>
 
 ###
