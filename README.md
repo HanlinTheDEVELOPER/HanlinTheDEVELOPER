@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <a style="text-decoration: none" href="discord://discord.com/channels/@me/1119249362124550174">
+  <a style="text-decoration: none" href="https://www.discord.com/channels/@me/1119249362124550174">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a style="text-decoration: none" href="mailto:hanlinthedeveloper@gmail.com">
