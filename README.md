@@ -1,11 +1,11 @@
-<h2 align="center">Hi👋!  My name is HanLinAung and I'm a Frontend Developer from Myanmar.</h2>
+<h2 align="center">Hi👋!  My name is HanLinAung and I'm a Full Stack Developer from Myanmar.</h2>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayzinei.mayzinei&"  />
 </div>
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=HanlinTheDEVELOPER.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 ###
 
 <div align="center">
