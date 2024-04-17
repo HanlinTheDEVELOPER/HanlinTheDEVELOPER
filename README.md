@@ -46,6 +46,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="30" alt="mongo logo"  />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
