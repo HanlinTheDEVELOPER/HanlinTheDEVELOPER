@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋!  My name is May Zin Ei and I'm a Frontend Developer from Myanmar.</h2>
+<h2 align="center">Hi👋!  My name is HanLinAung and I'm a Frontend Developer from Myanmar.</h2>
 
 ###
 
