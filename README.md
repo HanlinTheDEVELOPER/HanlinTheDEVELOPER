@@ -39,9 +39,13 @@
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="expressjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="PHP logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gql" height="30" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
