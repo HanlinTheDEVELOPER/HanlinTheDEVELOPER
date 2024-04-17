@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=next" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="expressjs logo"  />
   <img width="12" />
