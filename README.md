@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋!  My name is HanLinAung and I'm a Full Stack Developer from Myanmar.</h2>
+<h2 align="center">I am HanLinAung and a Full Stack Developer from Myanmar.</h2>
 
 ###
 
