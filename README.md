@@ -60,6 +60,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+     <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="Go logo"  />
   </div>
 </div>
 
